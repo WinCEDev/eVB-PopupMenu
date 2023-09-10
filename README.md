@@ -83,3 +83,5 @@ The example project makes use of this modification.
 ![Screenshot showing the example application displaying a message box acknowledging that the user clicked the Copy item.](https://github.com/WinCEDev/eVB-PopupMenu/blob/main/Screenshots/CAPT0001.png?raw=1)
 
 ## Links
+
+- [HPC:Factor Forum Thread](https://www.hpcfactor.com/forums/forums/thread-view.asp?tid=21013)
